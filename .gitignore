@@ -11,3 +11,7 @@ managed_components/
 /.agents/skills/passport-build
 /.agents/skills/passport-device-test
 /.agents/skills/passport-debug
+
+# Publisher local artifacts
+publish_instructions_*.txt
+ui_mockup_*.jpg
